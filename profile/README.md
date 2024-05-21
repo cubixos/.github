@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### This is `cubixos` project. [↗️](https://cubixos.github.io/overview.html)
+#### These are `cubixos` projects. [↗️](https://cubixos.github.io/overview.html)
 <!--
 
 **Here are some ideas to get you started:**
